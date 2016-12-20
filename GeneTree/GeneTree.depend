@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1459489061 source:c:\users\nathnael\documents\loyola\comp 271\genetree\main.cpp
+	<iostream>
+	<stack>
+	<fstream>
+	<vector>
+	<cstring>
+	"include/GeneTree.h"
+	<string>
+
+1459489008 c:\users\nathnael\documents\loyola\comp 271\genetree\include\genetree.h
+	<vector>
+	<cstring>
+	<string>
+
+1459490907 source:c:\users\nathnael\documents\loyola\comp 271\genetree\src\genetree.cpp
+	"GeneTree.h"
+	<iostream>
+	<stack>
+	<fstream>
+	<vector>
+	<cstring>
+	<string>
+	<stdlib.h>
+

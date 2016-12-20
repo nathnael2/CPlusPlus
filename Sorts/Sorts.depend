@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1461133971 source:c:\users\nathnael\documents\loyola\comp 271\sorts\main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+	<Sorts.h>
+
+1461131627 source:c:\users\nathnael\documents\loyola\comp 271\sorts\src\sorts.cpp
+	"Sorts.h"
+	<cstdlib>
+	<time.h>
+
+1461131630 c:\users\nathnael\documents\loyola\comp 271\sorts\include\sorts.h
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1461785642 source:c:\users\nathnael\documents\loyola\comp 271\hashing\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+
